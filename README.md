@@ -1,5 +1,8 @@
 # Plan-action-devops
 
+## Présentation
+
+- [Miro](https://miro.com/app/board/uXjVLXGDKW0=/)
 
 ## Contexte
 
