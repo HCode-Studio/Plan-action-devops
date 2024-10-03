@@ -39,7 +39,7 @@ Ce projet sera composé d'un frontend React, d'une admin React, connectée à un
 
 En tant que DevOps, vous n'aurez pas à coder le projet. Les développeurs s'en chargent. En revanche, vous devrez construire et coder toutes les étapes qui permettent au développeur de commencer sa première ligne de code métier dans un environnement autogéré qui lui fera gagner du temps.
 
-Le projet One est donc un projet pilote qui servira de modèle pour tous les prochains. Les développeurs suivront toutes vos recommandations, ainsi vous ne pratiquez pas seulement le DevOps ; vous l'enseignez.
+Le projet One est donc un projet pilote qui servira de modèle pour tous les prochains. Les développeurs suivront toutes vos recommandations, ainsi vous ne pratiquez pas seulement le DevOps. **Vous l'enseignez.**
 
 Pour convaincre la direction, vous devrez justifier tous vos choix en citant les avantages en termes de productivité ou de qualité.
 
